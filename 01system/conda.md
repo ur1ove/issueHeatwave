@@ -55,3 +55,11 @@ Preparing transaction: done
 Verifying transaction: done
 Executing transaction: done
 ~~~
+(base) C:\Windows\system32>conda -V
+~~~
+conda 4.5.1
+~~~
+(base) C:\Windows\system32>python -V
+~~~
+Python 3.6.4 :: Anaconda custom (64-bit)
+~~~
